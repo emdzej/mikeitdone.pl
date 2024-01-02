@@ -58,8 +58,10 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
+locale: pl-PL
+
 author:
-  name   : "First Lastname"
+  name   : "Michał Jaskólski"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
