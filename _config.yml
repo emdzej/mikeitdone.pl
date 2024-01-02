@@ -34,7 +34,7 @@ remote_theme: mmistakes/minimal-mistakes
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: "Europe/Warsaw" # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
@@ -61,7 +61,6 @@ plugins:
   - jekyll-include-cache
 
 locale: "pl-PL"
-site.locale: "pl-PL"
 
 author:
   name   : "Michał Jaskólski"
@@ -77,6 +76,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/mikeitdone"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/emdzej"
 
 footer:
   links:
@@ -86,6 +88,9 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/mikeitdone"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/emdzej"
 
 defaults:
   # _posts
