@@ -59,7 +59,8 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
-locale: pl-PL
+locale: "pl-PL"
+site.locale: "pl-PL"
 
 author:
   name   : "Michał Jaskólski"
