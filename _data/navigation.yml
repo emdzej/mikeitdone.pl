@@ -1,9 +1,9 @@
 main:
   - title: "Projekty"
-    url: /projects/
+    url: /categories/project/
   - title: "Warsztat"
-    url: /workshop/
+    url: /categories/workshop/
   - title: "Narzędziownia"
-    url: /workbench/
+    url: /categories/workbench/
   - title: "O..."
     url: /about/
