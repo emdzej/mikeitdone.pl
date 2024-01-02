@@ -59,7 +59,6 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
-  - jekyll-archives
 
 locale: "pl-PL"
 
@@ -119,14 +118,3 @@ defaults:
 # tag_archive:
 #   type: liquid
 #   path: /tags/
-
-jekyll-archives:
-  enabled:
-    - categories
-    - tags
-  layouts:
-    category: categories
-    tag: tags
-  permalinks:
-    category: "/categories/:name/"
-    tag: "/tags/:name/"
