@@ -76,9 +76,18 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/mikeitdone"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook"
+      url: "https://facebook.com/mikeitdonepl"      
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/emdzej"
+    - label: "Patreon"
+      icon: "fab fa-fw fa-patreon"
+      url: "https://patreon.com/MikeItDone"
+    - label: "Buy me a coffee"
+      icon: "fab fa-fw fa-buymeacoffee"
+      url: "https://www.buymeacoffee.com/mikeitdone"
 
 footer:
   links:
@@ -87,10 +96,19 @@ footer:
       url: "https://www.youtube.com/@MikeItDone"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/mikeitdone"
+      url: "https://instagram.com/mikeitdone"      
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook"
+      url: "https://facebook.com/mikeitdonepl"      
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/emdzej"
+    - label: "Patreon"
+      icon: "fab fa-fw fa-patreon"
+      url: "https://patreon.com/MikeItDone"
+    - label: "Buy me a coffee"
+      icon: "fab fa-fw fa-buymeacoffee"
+      url: "https://www.buymeacoffee.com/mikeitdone"
 
 defaults:
   # _posts
