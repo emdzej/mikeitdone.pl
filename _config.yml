@@ -82,6 +82,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/emdzej"
+    - label: "Printables"
+      icon: "fab fa-fw fa-printables"
+      url: "https://www.printables.com/@MikeItDone_10760"      
     - label: "Patreon"
       icon: "fab fa-fw fa-patreon"
       url: "https://patreon.com/MikeItDone"
@@ -109,6 +112,9 @@ footer:
     - label: "Buy me a coffee"
       icon: "fab fa-fw fa-buymeacoffee"
       url: "https://www.buymeacoffee.com/mikeitdone"
+    - label: "Printables"
+      icon: "fab fa-fw fa-printables"
+      url: "https://www.printables.com/@MikeItDone_10760"
 
 defaults:
   # _posts
