@@ -1,0 +1,25 @@
+{
+  "name": "mikeitdone.pl",
+  "version": "1.0.0",
+  "description": "Mike It Done — DIY projects, workshop notes and microblog by Michał Jaskólski",
+  "type": "module",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emdzej/mikeitdone.pl.git"
+  },
+  "author": "Michał Jaskólski",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/emdzej/mikeitdone.pl/issues"
+  },
+  "homepage": "https://mikeitdone.pl",
+  "devDependencies": {
+    "vitepress": "^1.6.4"
+  },
+  "packageManager": "pnpm@9.15.0"
+}
